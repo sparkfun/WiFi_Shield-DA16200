@@ -27151,7 +27151,7 @@ I2C pullups from bus</text>
 <text x="182.88" y="175.26" size="1.778" layer="97" font="vector">JP2 selects SPI CIPO
 to Arduino (default) 
 or GPIO header</text>
-<text x="215.9" y="175.26" size="1.778" layer="97" font="vector">JP3 selects SPI CIPO
+<text x="215.9" y="175.26" size="1.778" layer="97" font="vector">JP3 selects SPI COPI
 to Arduino (default) 
 or GPIO header</text>
 <text x="144.78" y="142.24" size="1.778" layer="97" font="vector">JP4 selects SPI CS
