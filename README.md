@@ -19,7 +19,6 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
 * **[Hookup Guide](https://sparkle.sparkfun.com/sparkle/learn_tutorials/1991)** - Basic hookup guide for the SparkFun WiFi Shield DA16200.
 
 License Information
