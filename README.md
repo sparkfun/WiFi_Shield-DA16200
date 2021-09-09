@@ -1,7 +1,7 @@
 SparkFun WiFi Shield DA16200
 ========================================
 
-![SparkFun WiFi Shield DA16200](URL for picture of part)
+![SparkFun WiFi Shield DA16200](https://cdn.sparkfun.com/assets/parts/1/8/0/2/6/18567-SparkFun_Qwiic_WiFi_Shield_-_DA16200-01.jpg)
 
 [*SparkFun WiFi Shield DA16200 (18567)*](https://www.sparkfun.com/products/18567)
 
