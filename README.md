@@ -5,11 +5,12 @@ SparkFun WiFi Shield DA16200
 
 [*SparkFun WiFi Shield DA16200 (18567)*](https://www.sparkfun.com/products/18567)
 
-Ultra. Low. Power. Arguably the best three words in the IoT world. SparkFun has teamed up with Dialog to provide you with this [Ultra-Low_Power Wifi Shield](https://www.sparkfun.com/products/18567) based around the DA16200 module. Behold a fully integrated Wi-Fi® module with a 40 MHz crystal oscillator, 32.768 KHz RTC clock, RF Lumped RF filter, 4 M-byte flash memory, and an onboard chip antenna. Add to that a Qwiic connector, MORE STUFF, and you've got pure magic. 
+Ultra. Low. Power. Arguably the best three words in the IoT world. SparkFun has teamed up with ARM and Dialog to provide you with this WiFi Shield based around the DA16200 module. The DA16200 is a fully integrated WiFi module with a 40MHz crystal oscillator, 32.768KHz RTC clock, RF Lumped RF filter, 4MB flash memory, and an onboard chip antenna. With the addition of a Qwiic connector, multiple GPIO options, JTAG connectors for deep dive programming, and you've got everything you need to get your R3 layout device ready to set up your next IoT project. 
 
-This module is ideal for door locks, thermostats, sensors, pet trackers, asset trackers, sprinkler systems, connected lighting, video cameras, video door bells, wearables and other IoT devices.
+The SparkFun Qwiic WiFi Shield is ideal for door locks, thermostats, sensors, pet trackers, and other home IoT projects, thanks in part to the multiple sleep modes that allow you to take advantage of current draws as low as 0.2uA-3.5uA.  
 
-The module's certified Wi-Fi alliance for IEEE802.11b/g/n, Wi-Fi Direct, WPS functionalities means it's been approved by multiple countries and using the Wi-Fi Alliance transfer policy, the Wi-Fi Certifications can be transferred without being tested again. 
+Additionally, the DA16200 module's certified WiFi alliance for IEEE802.11b/g/n, WiFi Direct, and WPS functionalities means that it has been approved for use by multiple countries and using the WiFi Alliance transfer policy, each WiFi Certification can be transferred without being tested again. 
+
 
 
 Repository Contents
